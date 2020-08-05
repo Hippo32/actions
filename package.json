@@ -2,6 +2,7 @@
   "name": "vue-action",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Hippo32.github.io/actions",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
